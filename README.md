@@ -1,6 +1,6 @@
 <head>
 <h1>Static age solutions</h1>
-<h2>Syscoin development team founded in 2022, organization originated in 2012</h2>
+<h2>Syscoin development collective founded in 2022, originated in 2012</h2>
 </head>
 
 <body>   
